@@ -1,0 +1,15 @@
+{
+  "name": "student-performance-analyzer",
+  "version": "1.0.0",
+  "description": "Student Performance Analyzer with Unit Tests and CI/CD",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["student", "performance", "analyzer"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
